@@ -1,7 +1,7 @@
 ## Bonjour !!!... Je m'appelle .. Monisha ##  👋
 
 ![Monisha_GIF png](https://user-images.githubusercontent.com/70528692/91937891-8bdd0980-ed10-11ea-810c-e56ab29c3967.png)
-
+[![Boss Bounty Badge](https://img.shields.io/endpoint.svg?url=https://api.boss.dev/badge/enabled/REPO_OWNER/REPO_NAME&style=for-the-badge&color=green)](https://www.boss.dev/issues/repo/REPO_OWNER/REPO_NAME)
 
 - 🔭 I’m currently working on Blockchain DeFi Project.
 - 🌱 I’m currently learning 
@@ -15,7 +15,7 @@
 - 💬 Ask me about any tech related to 
                 -Blockchain
                 -Postgresql
-                
+              
 - 📫 How to reach me:  Actively trying to write blogs and connect . 
                        [Medium :-  #Monisha Dubey](https://medium.com/@monishadubey6)
                        [LinkedIn :-  #Monisha Dubey](https://www.linkedin.com/in/monisha-dubey-38641a159/)
