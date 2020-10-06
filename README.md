@@ -28,5 +28,5 @@ I refine myself to reach out more and more resources
   - I focus on making high quality decisions. 
 As I am certified in Blockchain Expert I have keen knowledge of  building Blockchain-based applications for businesses . I do know about Bitcoins, Ethereum , Multichain , Neo and other trading cryptocurrencies. Since Blockchain is emerging tech not only based on tokens  .  But also for Developers to enhance existing database and introduce blockchain with AI, IoT, Cloud Computing and Devops. I wish to work with this in more depth. Learning Javascript for making Blockchain projects more strong and clean . I am part of Gitcoin Community for exploring and working open source projects and grabbing bounties and funding using Ethereum . Hoping to look forward for acceptance of my applications in Blockchain field .
 
-Skills/Interests :- Blockchain, SQL, JAVA Programming , Cloud computing , Data Science . 
+Skills/Interests :- Blockchain, SQL, JAVA Programming , Cloud computing , Data Science. 
 -->
